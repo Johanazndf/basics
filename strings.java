@@ -2,14 +2,14 @@
 
 public class strings {
     public static void main(String[] args) {
-      /*  String name = " ";
+        String name = " ";
         int length = name.length();
         char letter = name.charAt(0); charAt(0);
         int index = name.indexOf("a");
         int lastind = name.lastIndexOf("a");
         name = name.toUpperCase();
         System.out.println(name.isEmpty());
-       System.out.println(name);*/
+       System.out.println(name);
 // substring() = A method used to extract a portion of a string
         //.substring(start , end)
         String email = "johanaz@gmail.com";
